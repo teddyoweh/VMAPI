@@ -52,7 +52,7 @@ The API for this microservice provides the following endpoints:
 GET /api/v1/virtual-machines
 ```
 
-This endpoint returns a list of virtual machines.
+This is the endpoint for all virtual machines functionalities
 
 ### Storage
 
