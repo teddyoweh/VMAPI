@@ -59,3 +59,25 @@ This is the endpoint for all virtual machines functionalities
 ```sh
 GET /api/v1/storage
 ```
+
+This endpoint returns information about the storage resources for the microservice.
+
+### Networking
+
+```sh
+GET /api/v1/networking
+```
+
+This endpoint returns information about the networking resources for the microservice.
+
+## Built With
+
+* [Express](https://expressjs.com/) - The web framework used
+
+## Author
+
+* **Teddy Oweh** 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
