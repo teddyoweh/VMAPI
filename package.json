@@ -1,0 +1,28 @@
+{
+  "name": "vmapi",
+  "version": "1.0.0",
+  "description": " A microservice-based system for managing a large-scale cloud computing infrastructure.",
+  "main": "server.js",
+  "scripts": {
+    "test": "server",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teddyoweh/VMAPI.git"
+  },
+  "keywords": [
+    "vm",
+    "server",
+    "cloud"
+  ],
+  "author": "teddy oweh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teddyoweh/VMAPI/issues"
+  },
+  "homepage": "https://github.com/teddyoweh/VMAPI#readme",
+  "dependencies": {
+    "hapi": "^18.1.0"
+  }
+}
